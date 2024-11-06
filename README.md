@@ -1,11 +1,17 @@
 # bcos-cnn-transformers
 
 
-## Tasks
+## Tasks for this week
 
+### Kian
 - [ ]
 - [ ]
+
+### Julian
 - [ ]
 - [ ]
+
+### Martin
+
 - [ ]
 - [ ]
